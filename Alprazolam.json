@@ -9296,7 +9296,7 @@
               "X": "Fleishaker 1994 - Alprazolam alone - Alprazolam - PO - 1 mg - Plasma - agg. (n=20)|Time",
               "Y": "Fleishaker 1994 - Alprazolam alone - Alprazolam - PO - 1 mg - Plasma - agg. (n=20)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
-                "Color": "#FF0000",
+                "Color": "#0000FF",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -9320,8 +9320,6 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "Min": -1.0,
-              "Max": 38.0,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
@@ -9333,8 +9331,6 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "Min": 0.0,
-              "Max": 0.01,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Linear",
@@ -9350,11 +9346,22 @@
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
+            },
+            {
+              "Name": "Fleishaker 1994 - Alprazolam alone - Alprazolam - PO - 1 mg - Plasma - agg. (n=20)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Fleishaker 1994 - Alprazolam alone - Alprazolam - PO - 1 mg - Plasma - agg. (n=20)|Time",
+              "Y": "Fleishaker 1994 - Alprazolam alone - Alprazolam - PO - 1 mg - Plasma - agg. (n=20)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
             }
           ],
           "Name": "Time Profile Analysis 1",
           "Settings": {
-            "SideMarginsEnabled": false,
+            "SideMarginsEnabled": true,
             "LegendPosition": "None",
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
