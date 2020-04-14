@@ -28,23 +28,27 @@ The following publications were found and used for model building and evaluation
 | Publication                            | Study description                                            |
 | :------------------------------------- | :----------------------------------------------------------- |
 | [Adams 1984](# 5 References)           | IV administration of 0.25 mg and 4 mg                        |
-| [Bertz 1997](# 5 References)           | IV administration of 2 mg                                    |
-| [Eberts 1980](# 5 References)          | PO administration of 2 mg <sup>14</sup>C-alprazolam          |
-| [Eller 1990](# 5 References)           | PO administration of 1 mg                                    |
-| [Fleishaker 1989](# 5 References)      | IV administration of 1 mg                                    |
+| [Bertz 1997](# 5 References)           | IV administration of 2 mg (young subjects group)             |
+| [Eberts 1980](# 5 References)          | PO administration of 2 mg <sup>14</sup>C-alprazolam (no plasma concentration-time profile was reported, but the dose fraction excreted unchanged in urine was quantified) |
+| [Eller 1990](# 5 References)           | PO administration of 1 mg (Treatment C: IR tablet in fasted state) |
+| [Fleishaker 1989](# 5 References)      | IV administration of 1 mg (Treatment A)                      |
+| [Fleishaker 1994](# 5 References)      | PO administration of 1 mg four times daily at irregular time intervals for 4 days (Control phase) |
 | [Friedman 1991](# 5 References)        | PO administration of 1 mg                                    |
 | [Greenblatt 1988](# 5 References)      | PO administration of 1 mg                                    |
-| [Greenblatt 1992](# 5 References)      | PO administration of 1 mg                                    |
-| [Greenblatt 1998](# 5 References)      | PO administration of 1 mg                                    |
-| [Greenblatt 2000](# 5 References)      | PO administration of 1 mg                                    |
-| [Juhl 1984](# 5 References)            | PO administration of 1 mg                                    |
-| [Kaplan 1998](# 5 References)          | PO administration of 1 mg                                    |
+| [Greenblatt 1992](# 5 References)      | PO administration of 1 mg (Control phase)                    |
+| [Greenblatt 1998](# 5 References)      | PO administration of 1 mg (Trial A)                          |
+| [Greenblatt 2000](# 5 References)      | PO administration of 1 mg (Control group)                    |
+| [Juhl 1984](# 5 References)            | PO administration of 1 mg (Healthy control group)            |
+| [Kaplan 1998](# 5 References)          | PO administration of 1 mg (young subjects group)             |
 | [Kirkwood 1991](# 5 References)        | PO administration of 1 mg                                    |
 | [Kroboth 1988](# 5 References)         | IV administration of 0.5 mg, 1 mg followed by 72 µg over 8 h, and 2 mg |
 | [Lin 1988](# 5 References)             | IV administration of 0.5 mg and PO administration of 0.5 mg  |
-| [Schmider 1999](# 5 References)        | PO administration of 1 mg                                    |
-| [Schmith 1991](# 5 References)         | PO administration of 0.5 mg and 2 mg                         |
+| [Schmider 1999](# 5 References)        | PO administration of 1 mg (Control phase)                    |
+| [Schmith 1991](# 5 References)         | PO administration of 0.5 mg and 2 mg (normal subjects group) |
 | [Smith 1984](# 5 References)           | IV administration of 1 mg and PO administration of 1 mg      |
 | [Venkatakrishnan 2005](# 5 References) | IV administration of 1 mg                                    |
 | [Wennerholm 2005](# 5 References)      | PO administration of 1 mg                                    |
+| [Yasui 1996](# 5 References)           | PO administration of 0.8 mg (Control phase)                  |
+| [Yasui 1998](# 5 References)           | PO administration of 0.8 mg (Control phase)                  |
+| [Yasui 2000](# 5 References)           | PO administration of 0.8 mg (Control phase)                  |
 

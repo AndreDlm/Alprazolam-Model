@@ -16,6 +16,8 @@
 
 **Fleishaker 1989** Fleishaker JC, Phillips JP, Eller MG, Smith RB. Pharmacokinetics and pharmacodynamics of alprazolam following single and multiple oral doses of a sustained‐release formulation. *J Clin Pharmacol* 1989, 29(6): 543-549.
 
+**Fleishaker 1994** Fleishaker JC, Hulst LK. A pharmacokinetic and pharmacodynamic evaluation of the combined administration of alprazolam and fluvoxamine. *Eur J Clin Pharmacol.* 1994, 46(1): 35-39.
+
 **Friedman 1991** Friedman H, Redmond DE, Greenblatt DJ. Comparative pharmacokinetics of alprazolam and lorazepam in humans and in African Green Monkeys. *Psychopharmacology (Berl)* 1991, 104(1): 103-105.
 
 **Greenblatt 1983** Greenblatt DJ, Arendt RM, Abernethy DR, Giles HG, Sellers EM, Shader RI. In vitro quantitation of benzodiazepine lipophilicity: relation to in vivo distribution. *Br J Anaesth* 1983, 55(10): 985-989.
@@ -75,3 +77,9 @@
 **Wennerholm 2005** Wennerholm A, Allqvist A, Svensson JO, Gustafsson LL, Mirghani RA, Bertilsson L. Alprazolam as a probe for CYP3A using a single blood sample: pharmacokinetics of parent drug, and of α-and 4-hydroxy metabolites in healthy subjects. *Eur J Clin Pharmacol* 2005, 61(2): 113-118.
 
 **Willmann 2007** Willmann S, Höhn K, Edginton A, Sevestre M, Solodenko J, Weiss W, Lippert J, Schmitt W. Development of a physiology-based whole-body population model for assessing the influence of individual variability on the pharmacokinetics of drugs. *J Pharmacokinet Pharmacodyn* 2007, 34(3): 401-431.
+
+**Yasui 1996** Yasui N, Otani K, Kaneko S, Ohkubo T, Osanai T, Sugawara K, Chiba K, Ishizaki T. A kinetic and dynamic study of oral alprazolam with and without erythromycin in humans: in vivo evidence for the involvement of CYP3A4 in alprazolam metabolism. *Clin Pharmacol Ther.* 1996, 59(5): 514-519.
+
+**Yasui 1998** Yasui N, Kondo T, Otani K, Furukori H, Kaneko S, Ohkubo T, Nagasaki T, Sugawara K. Effect of itraconazole on the single oral dose pharmacokinetics and pharmacodynamics of alprazolam. *Psychopharmacology* 1998, 139(3): 269-273.
+
+**Yasui 2000** Yasui N, Kondo T, Furukori H, Kaneko S, Ohkubo T, Uno T, Osanai T, Sugawara K, Otani K. Effects of repeated ingestion of grapefruit juice on the single and multiple oral-dose pharmacokinetics and pharmacodynamics of alprazolam. *Psychopharmacology* 2000, 150(2): 185-190.
