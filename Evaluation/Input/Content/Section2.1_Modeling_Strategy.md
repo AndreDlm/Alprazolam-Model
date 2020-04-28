@@ -16,7 +16,7 @@ Unknown parameters were simultaneously optimized using all available PK data, in
 - 1 plasma concentration-time profile following single PO administration of 2 mg
 - 1 dose fraction excreted unchanged in urine following single PO administration of 2 mg
 
-Structural model selection was mainly guided by visual inspection of the resulting description of data and biological plausibility. The following parameters were identified using the Parameter Identification module provided in PK-Sim<sup>®</sup> and MoBi<sup>®</sup> ([Open Systems Pharmacology Documentation](# 5 References)):
+Structural model selection was mainly guided by visual inspection of the resulting description of data and biological plausibility. The following parameters were identified using the Parameter Identification module provided in PK-Sim<sup>®</sup> and MoBi<sup>®</sup> ([Open Systems Pharmacology Documentation](#5References)):
 
 - `Dissolution time (50% dissolved)`
 - `Dissolution shape`
@@ -27,9 +27,9 @@ Structural model selection was mainly guided by visual inspection of the resulti
 - `Reference concentration CYP3A4` (only for Japanese subjects)
 - `GFR fraction`
 
-Details about input data (physicochemical, *in vitro* and clinical) can be found in [Section 2.2](#2.2	Data).
+Details about input data (physicochemical, *in vitro* and clinical) can be found in [Section 2.2](#22-Data).
 
-Details about the structural model and its parameters can be found in [Section 2.3](#2.3 Model Parameters and Assumptions).
+Details about the structural model and its parameters can be found in [Section 2.3](#23-Model-Parameters-and-Assumptions).
 
 
 
